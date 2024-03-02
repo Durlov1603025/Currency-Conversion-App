@@ -76,7 +76,7 @@ export default function Home({ symbols }) {
 
       <div className="flex justify-center items-end h-52 md:h-44">
         <p className="text-primary pb-12 md:w-60 md:text-center">
-          Made by RapidAPI DevRel Team –{" "}
+          Made by Mahbubur Rahman
           
         </p>
       </div>
